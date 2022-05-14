@@ -16,6 +16,9 @@ Made by professional router hackers and linux nerds
 - Java
 - Definitely not x86 assembly
 
+## Swag
+![RandomVersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomVersion&theme=dark&show_icons=true)
+
 ## Where to contact
 
 RandomVersion#3657
