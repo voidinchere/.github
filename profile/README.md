@@ -1,6 +1,6 @@
 ## Randomium inc.
 
-Made by a router exploiter and a linux user
+Made by some guy with too much free time
 
 ## Current projects
 
