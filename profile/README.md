@@ -1,16 +1,11 @@
-## Randomium inc.
+## Void inc.
 
-Made by some guy with too much free time
+Made by 1337 h1ck3rs
 
 ## Current projects
 
 - voidlocker (beta)
 - voidscript (stable)
-
-## Tech stack
-- Linux
-- C/C++
-- Python
 
 ## Swag
 ![RandomVersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomVersion&theme=dark&show_icons=true)
@@ -20,7 +15,7 @@ BTC:bc1q9376usd6h06qp70h25hs2jygrnw8t7c80067dt
 
 ## Where to contact
 
-RandomVersion#3657
+RandomVersion#0001
 
 ## Credits
 
