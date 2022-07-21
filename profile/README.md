@@ -2,7 +2,7 @@
 
 Made by professional internet users
 
-## funny projects
+## projects
 
 - TrollDoor the funny backdoor
 - and funny exploits
